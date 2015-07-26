@@ -1,0 +1,5 @@
+[package]
+
+name = "enum_test"
+version = "0.0.1"
+authors = ["Kyle Holzinger <kylelholzinger@gmail.com>"]
